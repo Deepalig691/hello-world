@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Just removed
+
+This is the first change to test the branch edits.
